@@ -1,0 +1,26 @@
+{
+  "name": "fun-pokemon-battler",
+  "version": "1.0.0",
+  "description": "For this sprint, head to Northcoder's L2C app:",
+  "main": "pokemon-battler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theRohirrim/fun-pokemon-battler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theRohirrim/fun-pokemon-battler/issues"
+  },
+  "homepage": "https://github.com/theRohirrim/fun-pokemon-battler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^3.2.0"
+  }
+}
